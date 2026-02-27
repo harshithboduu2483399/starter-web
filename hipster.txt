@@ -1,0 +1,65 @@
+From Wikipedia, the free encyclopedia
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+This article includes a list of general references, but it lacks sufficient corresponding inline citations. (March 2017)
+This article needs additional citations for verification. (January 2026)
+Sf
+Pages in a book
+A page is one side of a leaf (a sheet or half-sheet) of paper, parchment or other material (or electronic media) in a book, magazine, newspaper, or other collection of sheets, on which text or illustrations can be printed, written or drawn, to create documents. It can be used as a measure of communicating general quantity of information and is used in various compound words and idiomatic expressions. In library science, the number of pages in a book forms part of its physical description.
+
+Etymology
+The word page comes from the Latin term pagina, which means, "a written page, leaf, sheet",[1] which in turn comes from an earlier meaning "to create a row of vines that form a rectangle".[2] The Latin word pagina derives from the verb pangere, which means to stake out boundaries when planting vineyards.[2]
+
+The page in English lexicon
+Page can be used as a measure of communicating general quantity of information ("That topic covers twelve pages") or more specific quantity ("there are 535 words in a standard page in twelve point font type").[3] It is used in various compound words and idiomatic expressions.
+
+Compound words:
+
+Blank page: multiple meanings. "It's a blank page": An opportunity to start over a do something anew or for the first time. "They are a blank page": denotes either a person hard to read or easily swayed/vapid.
+Page through: to skim something; to flip through something quickly.[4]
+Page-turner: A book that is exciting to read (reading fast and keep turning pages to see what happens next).[5]
+Idiomatic expressions:
+
+Front-page news: important news or information.
+On the same page: to be in agreement with someone (literally: reading from the same page).
+Take a page (or leaf) out of someone's book: to copy or mimic the behavior of someone.
+Turn the page: to move on from an event. To stop thinking about something or to move forward.
+The page in library science
+icon
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2026) (Learn how and when to remove this message)
+In library science, the number of pages in a book forms part of its physical description, coded in subfield $300a in MARC 21 and in subfield $215a in UNIMARC. This description consists of the number of pages (or a list of such numberings separated by commas, if the book contains separately-numbered sections), followed by the abbreviation "p." for "page(s)". The number of pages is written in the same style (Arabic or Roman numerals, uppercase or lowercase, etc.) as the numbering in each section. Unnumbered pages are not described.
+
+For example,
+
+XI, 2050 p.
+describes a book with two sections, where section one contains 11 pages numbered using uppercase Roman numerals, and section two contains 2050 pages numbered using Arabic numerals; the total number of pages is thus 2061 pages, plus any unnumbered pages.
+
+If the book contains too many separately-numbered sections, too many unnumbered pages, or only unnumbered pages, the librarian may choose to describe the book as just "1 v." (one volume) when doing original cataloguing.
+
+See also
+Book design
+Page spread
+Recto and verso
+Image scaling
+Margin (typography)
+References
+ "Pagina". Wiktionary. 12 August 2021.
+ Emmanuel Souchier, "Histoires de pages et pages d'histoire", dans L'Aventure des écritures, Paris, Bibliothèque nationale de France, 1999. ISBN 978-2-717-72072-3.
+ "How Many Words in One Page? Answers to your questions". 7 January 2020.
+ "Page through Definition & Meaning". Merriam-Webster.
+ "Page-turner Definition & Meaning". Merriam-Webster.
+External links
+
+Look up page in Wiktionary, the free dictionary.
+MARC 21 Format for Bibliographic Data: Table of Contents (Network Development and MARC Standards Office, Library of Congress)
+IFLA Universal Bibliographic Control and International MARC Core Programme
+vte
+Typography
+vte
+Paper
+Categories: PaperPage layoutTypography
+This page was last edited on 7 January 2026, at 22:23 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki
